@@ -4,7 +4,7 @@ weight: 1
 ---
 
 Ich liebe Papierkram und nehme ihn Ihnen gern ab.
-![Erbsenzählerin](/images/Erbsen-3-300.png)
+![Erbsenzählerin](images/Erbsen-3-300.png)
 ##### Ich zähle gerne für Sie die Erbsen!
 
 Sie sind bei mir richtig, denn ich übernehme für Sie das Buchen 
