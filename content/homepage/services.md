@@ -8,7 +8,7 @@ header_menu: true
 
 Mit Begeisterung führe ich folgende Tätigkeiten für Sie aus:
 
- - Buchen der lfd. Geschäftsvorfälle
+ - Buchen der lfd. Geschäftsvorfälle [^1]
  - Liquiditätsplanung
  - Büro- und Schreibarbeiten
  - Lohnabrechnung / Baulohn
@@ -18,7 +18,13 @@ Mit Begeisterung führe ich folgende Tätigkeiten für Sie aus:
  - Anfertigen von Listen, Tabellen, Formularen
  - Überwachen von Forderungen und Verbindlichkeiten
 
-weitere kfm. Dienstleistungen auf Anfrage.
-Die Hilfeleistung in Steuersachen umfasst nur das Buchen der 
+Speziell biete ich die Dienstleistungen [Buchhaltung](services-accounting)
+und [Lohn- und Gehaltsabrechnung](services-payroll) an.
+
+Weitere kfm. Dienstleistungen auf Anfrage.
+
+Ich freue mich auf eine Zusammenarbeit mit Ihnen.
+
+[^1]: Die Hilfeleistung in Steuersachen umfasst nur das Buchen der
 lfd. Geschäftsvorfälle und die lfd. Lohnabrechnung.
-Ich freu mich auf eine Zusammenarbeit mit Ihnen.
+

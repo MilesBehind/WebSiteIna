@@ -1,4 +1,4 @@
-baseURL:      'https://example.org/'
+baseURL:      'https://milesbehind.github.io/WebSiteIna/'
 languageCode: 'de-de'
 title:        'Buchhaltungsbüro Sauerbier'
 theme:        'hugo-scroll'
